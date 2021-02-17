@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "50314876471",
+    "project_id": "audio-c985b",
+    "storage_bucket": "audio-c985b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50314876471:android:20eae2abbdd6d0e4e791b2",
+        "android_client_info": {
+          "package_name": "com.sumeshpandit.audio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50314876471-h4604i9m4fqciaract4et9e529fm6fav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ23Ldmsj5fKOO-5WsU8nCNFH3jbY4POc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50314876471-h4604i9m4fqciaract4et9e529fm6fav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
